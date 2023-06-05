@@ -1,2 +1,13 @@
 # DL-Practice
-In this repository, I store various projects in deep learning
+In the near future, I plan to keep my projects stored here.
+
+# Courses
+Below are the resources I use to study.
+
+## MSU
+
+## MIPT
+
+## HSE
+
+## Other
