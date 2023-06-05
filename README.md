@@ -5,6 +5,8 @@ In the near future, I plan to keep my projects stored here.
 Below are the resources I use to study.
 
 ## MSU
+[Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning):star::star:`Beginner`<br/>
+
 [DL for 3rd Course (all streams)](https://github.com/MSU-ML-COURSE/DL-COURSE-22)<br/>
 [DL Course by Alexander D'yakonov (more detailed)](https://github.com/Dyakonov/DL)<br/>
 [DL Course for 3rd Stream by Alexander D'yakonov](https://github.com/Dyakonov/MSUDL)<br/>
