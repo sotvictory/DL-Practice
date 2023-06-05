@@ -10,6 +10,10 @@ Below are the resources I use to study.
 [DL Course for 3rd Stream by Alexander D'yakonov](https://github.com/Dyakonov/MSUDL)<br/>
 [DL Course for 3rd Stream by Alexander D'yakonov (youtube)](https://www.youtube.com/playlist?list=PLhe7c-LCgl4KOFXmNgNsXM5mhYdLq_hxn)<br/>
 [DL Course for 2nd Stream by Dmitry Kropotov (youtube)](https://youtube.com/playlist?list=PLzdAwQrglFyKECQU2noqoeAImVFZW7dfN)<br/>
+[MMP Practicum Spring](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023))
+[MMP Practicum Spring Youtube](https://youtube.com/playlist?list=PLVF5PzSHILHTxlapj_O-drSuzOdZ4XAVG)
+[MMP Seminars Spring](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022) 
+[MMP Tasks Spring](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023/tree/main/Tasks)
 
 ## Other
 [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero)
