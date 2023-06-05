@@ -15,7 +15,7 @@ Below are the resources I use to study.
 [DL Course for 3rd Stream by Alexander D'yakonov (youtube)](https://www.youtube.com/playlist?list=PLhe7c-LCgl4KOFXmNgNsXM5mhYdLq_hxn)<br/>
 [DL Course for 2nd Stream by Dmitry Kropotov (youtube)](https://youtube.com/playlist?list=PLzdAwQrglFyKECQU2noqoeAImVFZW7dfN)<br/>
 [MMP Practicum Spring](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023)<br/>
-[MMP Practicum Spring Youtube](https://youtube.com/playlist?list=PLVF5PzSHILHTxlapj_O-drSuzOdZ4XAVG)<br/>
+[MMP Practicum Spring (youtube)](https://youtube.com/playlist?list=PLVF5PzSHILHTxlapj_O-drSuzOdZ4XAVG)<br/>
 [MMP Seminars Spring](https://github.com/mmp-mmro-team/mmp_mmro_spring_2022)<br/>
 [MMP Tasks Spring](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023/tree/main/Tasks)<br/>
 
