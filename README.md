@@ -26,8 +26,3 @@ Below are the resources I use to study.
 [CS224N: Natural Language Processing with DL](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)<br/>
 [CS231N: Convolutional Neural Networks for Visual Recognition](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)<br/>
 [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero)<br/>
-
-[Extra Materials for MIPT Course (books and links)](https://github.com/Atmyre/open-ml-course/blob/master/extra_materials.md)<br/>
-
-[Resources Collection by Tatiana Gaintseva (books and links)](https://github.com/Atmyre/ml-dl-resources-rus): mathematics, ML/DL articles, ML/DL, programming/CS, soft skills<br/>
-[IT Job Search (links)](https://github.com/Atmyre/it-job-search)<br/>
