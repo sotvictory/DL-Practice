@@ -5,7 +5,7 @@ In the near future, I plan to keep my projects stored here.
 Below are the resources I use to study.
 
 ## MSU
-[Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning):star::star:`Beginner`<br/>
+[Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)  
 [Special Course: Neural Networks and Computer Vision by SAMSUNG](https://stepik.org/course/50352):star::star:`Beginner`<br/>
 [Special Course: Neural Networks and Text Processing by SAMSUNG](https://stepik.org/course/54098):star::star:`Beginner`<br/>
 
