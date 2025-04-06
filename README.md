@@ -6,12 +6,12 @@ Below are the resources I use to study.
 
 ## MSU
 [Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)  
-[Special Course: Neural Networks and Computer Vision by SAMSUNG](https://stepik.org/course/50352):star::star:`Beginner`<br/>
-[Special Course: Neural Networks and Text Processing by SAMSUNG](https://stepik.org/course/54098):star::star:`Beginner`<br/>
+[Special Course: Neural Networks and Computer Vision by SAMSUNG](https://stepik.org/course/50352)  
+[Special Course: Neural Networks and Text Processing by SAMSUNG](https://stepik.org/course/54098)  
 
-[DL for 3rd Course (all streams)](https://github.com/MSU-ML-COURSE/DL-COURSE-22)<br/>
-[DL Course by Alexander D'yakonov (more detailed)](https://github.com/Dyakonov/DL)<br/>
-[DL Course for 3rd Stream by Alexander D'yakonov](https://github.com/Dyakonov/MSUDL)<br/>
+[DL for 3rd Course (all streams)](https://github.com/MSU-ML-COURSE/DL-COURSE-22)  
+[DL Course by Alexander D'yakonov (more detailed)](https://github.com/Dyakonov/DL)  
+[DL Course for 3rd Stream by Alexander D'yakonov](https://github.com/Dyakonov/MSUDL)  
 [DL Course for 3rd Stream by Alexander D'yakonov (youtube)](https://www.youtube.com/playlist?list=PLhe7c-LCgl4KOFXmNgNsXM5mhYdLq_hxn)<br/>
 [DL Course for 2nd Stream by Dmitry Kropotov (youtube)](https://youtube.com/playlist?list=PLzdAwQrglFyKECQU2noqoeAImVFZW7dfN)<br/>
 [MMP Practicum Spring](https://github.com/mmp-practicum-team/mmp_practicum_spring_2023)<br/>
